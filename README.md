@@ -30,7 +30,7 @@ Direct Lake Mode: Connects Power BI directly to OneLake Delta tables. This provi
 Semantic Sync: Automatic refresh triggers ensure the dashboard reflects global activity in real-time.
 
 <img width="1919" height="1020" alt="Screenshot 2026-03-22 185024" src="https://github.com/user-attachments/assets/fe45759b-431a-462c-b624-347068e0e432" />
-![Media (4)]
+
 
 
 
